@@ -1,9 +1,10 @@
 
 def square_array(array)
   results=[]
-while numbers[counter] do
-  puts new_numbers
+while numbers do
+  numbers.length=current_number**
+  results << current_number
   counter += 1
-end
-
-square_array(new_numbers)
+  end
+end 
+results
